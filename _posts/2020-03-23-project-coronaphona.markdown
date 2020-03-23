@@ -2,7 +2,6 @@
 layout: post
 title:  "CoronaPhona"
 date:   2020-03-23 13:03:42 +0000
-categories: coronaphona covid19 projects
 ---
 See: [lbandc.github.io/coronaphona](https://lbandc.github.io/coronaphona)
 
