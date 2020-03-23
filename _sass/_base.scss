@@ -47,7 +47,17 @@ img {
     vertical-align: middle;
 }
 
+.banner {
+    position: relative;
+    height: 300px;
+    overflow: hidden;
+}
 
+.banner > img {
+    position: absolute;
+    top:-100%; left:0; right: 0; bottom:-100%;
+    margin: auto;
+}
 
 /**
  * Figures
