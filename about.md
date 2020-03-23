@@ -6,7 +6,7 @@ permalink: /about/
 
 We are the Lancaster Beer & Code collective. A group of 
   technologically-inclined friends who appreciate the finer
-  things in life - beer and code.
+  things in life - beer and code. Unfortunately the pubs are closed right now.
 
   * [Will Faithfull](https://www.linkedin.com/in/will-faithfull/)
   * [Jon Hill](https://www.linkedin.com/in/jon-hill-604764/)
