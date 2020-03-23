@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Lancaster Beer & Code
+email: will@faithfull.me
+theme: jekyll-theme-clean-blog
+description: > # this means to ignore newlines until "baseurl:"
+  We are the Lancaster Beer & Code collective. A group of 
+  technologically-inclined friends who appreciate the finer
+  things in life - beer and code.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lbandc.github.io" # the base hostname & protocol for your site
+twitter_username: DrFaithfull
+github_username:  wfaithfull
+
+# Build settings
+markdown: kramdown
