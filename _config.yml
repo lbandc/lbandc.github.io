@@ -8,7 +8,8 @@
 # Site settings
 title: Lancaster Beer & Code
 email: will@faithfull.me
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 description: > # this means to ignore newlines until "baseurl:"
   We are the Lancaster Beer & Code collective. A group of 
   technologically-inclined friends who appreciate the finer
