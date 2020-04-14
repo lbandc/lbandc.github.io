@@ -22,7 +22,7 @@ And also, why do NHS England publish everything on Excel spreadsheets, which are
 
 With those problems in mind, we set upon a solution. You can find our NHS England COVID-19 deaths API at
 
-* https://api.cv19api.com/api/v1/deaths
+* [https://api.cv19api.com/api/v1/deaths](https://api.cv19api.com/api/v1/deaths)
 
 [A Spring Boot Application](https://github.com/lbandc/cv19api) which automatically scrapes these excel spreadsheets daily, ingests the data into a database, and exposes it as a queryable api for [data science applications](https://colab.research.google.com/drive/1SFKsljWqc2IR5xV1vBzdRu6HFr-Kr1OK#scrollTo=3Ue5Yjg-EppX).
 
