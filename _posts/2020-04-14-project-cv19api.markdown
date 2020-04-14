@@ -19,6 +19,10 @@ We've been busy over the easter weekend. I (Will) noticed this [reddit post](htt
 
 And also, why do NHS England publish everything on Excel spreadsheets, which are bloody hard work to aggregate.
 
-With those problems in mind, we set upon a solution. [A Spring Boot Application](https://github.com/lbandc/cv19api) which automatically scrapes these excel spreadsheets daily, ingests the data into a database, and exposes it as a queryable api for [data science applications](https://colab.research.google.com/drive/1SFKsljWqc2IR5xV1vBzdRu6HFr-Kr1OK#scrollTo=3Ue5Yjg-EppX).
+With those problems in mind, we set upon a solution. You can find our NHS England COVID-19 deaths API at
+
+* https://api.cv19api.com/api/v1/deaths
+
+[A Spring Boot Application](https://github.com/lbandc/cv19api) which automatically scrapes these excel spreadsheets daily, ingests the data into a database, and exposes it as a queryable api for [data science applications](https://colab.research.google.com/drive/1SFKsljWqc2IR5xV1vBzdRu6HFr-Kr1OK#scrollTo=3Ue5Yjg-EppX).
 
 We built this for our own curiosity, but we provide it free of use to anyone and everyone. We will try and keep it up to date as long as this crisis continues.
