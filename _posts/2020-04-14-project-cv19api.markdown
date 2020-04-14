@@ -3,6 +3,7 @@ layout: post
 title:  "cv19api"
 date:   2020-04-14 15:00:00 +0000
 ---
+* [cv19api endpoint](https://api.cv19api.com/api/v1/deaths)
 * [cv19api on GitHub](https://github.com/lbandc/cv19api)
 * [Colab notebook demonstrating it's use](https://colab.research.google.com/drive/1SFKsljWqc2IR5xV1vBzdRu6HFr-Kr1OK#scrollTo=3Ue5Yjg-EppX)
 
